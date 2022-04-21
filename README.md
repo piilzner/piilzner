@@ -6,7 +6,7 @@ Frontend-developer
 
 Im a frontend lead-developer at the web agency [The Generation](https://thegeneration.se/) based in Stockholm, Sweden.
 
-* 🌍  I'm based in Karlshamn, Sweden.
+* 🌍  I'm working remote from Karlshamn, Sweden.
 * ✉️  You can contact me at [nilslofgren90@gmail.com](mailto:nilslofgren90@gmail.com)
 * 🧠  I'm currently improving my skills in GSAP scrollanimations!
 
