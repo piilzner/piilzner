@@ -8,7 +8,6 @@ Im a frontend lead-developer at the web agency [The Generation](https://thegener
 
 * 🌍  I'm working remote from Karlshamn, Sweden.
 * ✉️  You can contact me at [nilslofgren90@gmail.com](mailto:nilslofgren90@gmail.com)
-* 🧠  I'm currently improving my skills in GSAP scrollanimations!
 
 ### Skills
 
@@ -34,7 +33,3 @@ Im a frontend lead-developer at the web agency [The Generation](https://thegener
 ### Socials
 
 <p align="left"> <a href="https://www.codepen.io/piilzner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://www.github.com/piilzner" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/nils-l%C3%B6fgren-a97404b3/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Badges
-
-<a href="https://github.com/piilzner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piilzner&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
